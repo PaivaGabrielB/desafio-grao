@@ -137,3 +137,8 @@ Com o ambiente ainda ativado, inicie o Jupyter Notebook:
 No seu navegador, abra o arquivo analise_desafio.ipynb.
 
 Para executar o projeto inteiro, vá ao menu e clique em `Kernel > Restart & Run All`. Isso garantirá que todas as células sejam executadas na ordem correta. Os arquivos .csv com as previsões finais serão salvos na pasta raiz.
+
+## 7. Faça perguntas ao assistente!!
+
+Assistente de conversa criado para responder perguntas ou requisições relacionadas ao contexto do projeto...
+EX: "Qual a previsão dos vendedores do dia 04/11/2024?", "Mê dê informações sobre o projeto."
