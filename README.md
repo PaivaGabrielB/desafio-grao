@@ -57,6 +57,7 @@ Tabulate: Dependência opcional do Pandas para formatação de tabelas em texto.
 ## 3. Estrutura de Arquivos
 O projeto está organizado da seguinte forma:
 
+```
 desafio_grao/
 ├── .venv/                      
 ├── dados/
@@ -68,6 +69,7 @@ desafio_grao/
 ├── README.md                   
 ├── previsao_vendedores_2024-11-04.csv 
 └── previsao_vendedores_2024-11-05.csv 
+```
 
 ## 4. Passo a Passo para Iniciar o Projeto
 Siga estas instruções para configurar o ambiente e executar o projeto.
