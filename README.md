@@ -57,20 +57,17 @@ Tabulate: Dependência opcional do Pandas para formatação de tabelas em texto.
 ## 3. Estrutura de Arquivos
 O projeto está organizado da seguinte forma:
 
-/desafio_grao/
-|
-|-- .venv/                # Pasta do ambiente virtual
-|-- dados/
-|   |-- mercado-desafio.xlsx
-|   |-- transacoes-desafio.xlsx
-|
-|-- analise_desafio.ipynb # O notebook com todo o código da análise
-|-- .env                    
-|-- requirements.txt        # Lista de dependências para instalação
-|-- README.md               # Esta documentação
-|
-|-- previsao_vendedores_2024-11-04.csv  # Resultado final gerado
-`-- previsao_vendedores_2024-11-05.csv  # Resultado final gerado
+desafio_grao/
+├── .venv/                      
+├── dados/
+│   ├── mercado-desafio.xlsx
+│   └── transacoes-desafio.xlsx
+├── .env
+├── analise_desafio.ipynb       
+├── requirements.txt            
+├── README.md                   
+├── previsao_vendedores_2024-11-04.csv 
+└── previsao_vendedores_2024-11-05.csv 
 
 ## 4. Passo a Passo para Iniciar o Projeto
 Siga estas instruções para configurar o ambiente e executar o projeto.
